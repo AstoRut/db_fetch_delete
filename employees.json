@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Pankaj",
+      "salary": "10000"
+    },
+    {
+      "name": "Lisa",
+      "salary": "52000",
+      "id": 2
+    },
+    {
+      "name": "Chicken",
+      "salary": "55",
+      "id": 4
+    },
+    {
+      "name": "Paul",
+      "salary": "7800",
+      "id": 5
+    },
+    {
+      "name": "Dog",
+      "salary": "100000",
+      "id": 6
+    }
+  ]
+}
